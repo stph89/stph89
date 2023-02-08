@@ -12,7 +12,9 @@
 * `Python`
 * Librerías: `Numpy` `Pandas` `SQL` `Tensor Flow` `Azure` `Docker` `Celery` `wandb` `Pycaret`
 
-## Let's keep in touch! [Linkedin](https://www.linkedin.com/in/valderrama-stph)
+## Let's keep in touch! 
+
+[This is my Linkedin](https://www.linkedin.com/in/valderrama-stph)
 
 
 <!--
