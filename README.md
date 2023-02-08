@@ -1,18 +1,18 @@
-### Hola!!!
+### Hi!!!
 
-Mi nombre es Stephany, soy bióloga científica de datos, me apasionan los modelos de Inteligencia Artifical, crear soluciones prácticas, escalables y productivas a partir de los patrones de los datos....tengo 10 años de experiencia aplicando técnicas estadísticas y modelos de machine learning a diversas investigaciones científicas. 
+#### I'm Stephany, I'm a data scientist biologist, I'm passionate about Artificial Intelligence models, creating practical, scalable and productive solutions from data patterns.....I have 10 years of experience applying statistical techniques and machine learning models to various scientific investigations.
 
-Me encantan los retos, aprender y trabajar en equipo. 
+#### I love challenges, learning and working in a team. 
 
-- 🔭 Actualmente trabajo en Desarrollo de Inteligencia Artificial
-- 🌱 Estoy aprendiendo cada vez más de la union de la tecnología aplicada y las ciencias exactas.
+- 🔭 I am currently working in Artificial Intelligence Development.
+- 🌱 I am learning more and more from the union of applied technology and exact sciences.
 
-**Tecnologías que utilizo:*
-* R
-* Python
-* Librerías: Numpy, Pandas, SQL, Tensor Flow, Azure, Docker, Celery, wandb, Pycaret.
+### Tecnologías que utilizo:
+* `R`
+* `Python`
+* Librerías: `Numpy` `Pandas` `SQL` `Tensor Flow` `Azure` `Docker` `Celery` `wandb` `Pycaret`
 
-Te dejo mi Linkedin --->  www.linkedin.com/in/valderrama-stph
+## Let's keep in touch! [Linkedin](https://www.linkedin.com/in/valderrama-stph)
 
 
 <!--
