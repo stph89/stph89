@@ -7,10 +7,14 @@
 - 🔭 I am currently working in Artificial Intelligence Development.
 - 🌱 I am learning more and more from the union of applied technology and exact sciences.
 
-### Tecnologías que utilizo:
+###  📫 Tecnologías que utilizo:
 * `R`
 * `Python`
 * Librerías: `Numpy` `Pandas` `SQL` `Tensor Flow` `Azure` `Docker` `Celery` `wandb` `Pycaret`
+* Procesosde ETL --> Extract, Transformation and Load Data
+* AWS Cloud Managment
+* API calls
+* Databases in SQL and No-SQL
 
 ## Let's keep in touch! 
 
